@@ -27,7 +27,7 @@ public class BasicStuInfoActivity extends AppCompatActivity {
 
     String surname, name, fatherName, mobileNo, alternateMN;
     String gender;
-
+//efdf
 //hgfhg
 //    @Override
 //    protected void onCreate(Bundle savedInstanceState) {
