@@ -10,12 +10,16 @@
         <entry key="..\:/Users/pc/Desktop/schoolApp-master/app/src/main/res/layout/action_bar_notification_icon.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/pc/Desktop/schoolApp-master/app/src/main/res/layout/activity_about_us.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/pc/Desktop/schoolApp-master/app/src/main/res/layout/activity_acdemic_row.xml" value="0.33" />
-        <entry key="..\:/Users/pc/Desktop/schoolApp-master/app/src/main/res/layout/activity_address_detail_stu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/Desktop/schoolApp-master/app/src/main/res/layout/activity_address_detail_stu.xml" value="0.16" />
         <entry key="..\:/Users/pc/Desktop/schoolApp-master/app/src/main/res/layout/activity_advertise_row.xml" value="0.2" />
+        <entry key="..\:/Users/pc/Desktop/schoolApp-master/app/src/main/res/layout/activity_basic_stu_info.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/pc/Desktop/schoolApp-master/app/src/main/res/layout/activity_display_video.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/pc/Desktop/schoolApp-master/app/src/main/res/layout/activity_doubt_solving.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/pc/Desktop/schoolApp-master/app/src/main/res/layout/activity_due_payment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/Desktop/schoolApp-master/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/Desktop/schoolApp-master/app/src/main/res/layout/activity_neet.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/pc/Desktop/schoolApp-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/Desktop/schoolApp-master/app/src/main/res/layout/activity_stu_edu_detail.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/pc/Desktop/schoolApp-master/app/src/main/res/layout/activity_student_profile.xml" value="0.5" />
         <entry key="..\:/Users/pc/Desktop/schoolApp-master/app/src/main/res/layout/activity_student_reg_otp.xml" value="0.25" />
       </map>
