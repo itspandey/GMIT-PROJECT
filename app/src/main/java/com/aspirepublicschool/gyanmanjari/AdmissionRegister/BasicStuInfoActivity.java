@@ -22,7 +22,7 @@ public class BasicStuInfoActivity extends AppCompatActivity {
     RadioGroup radioGroup;
     RadioButton radioButton;
     TextView btnSave;
-    //lauda
+
     //hhv
 
     String surname, name, fatherName, mobileNo, alternateMN;
