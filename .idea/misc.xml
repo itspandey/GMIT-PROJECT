@@ -22,6 +22,16 @@
         <entry key="..\:/Users/pc/Desktop/schoolApp-master/app/src/main/res/layout/activity_stu_edu_detail.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/pc/Desktop/schoolApp-master/app/src/main/res/layout/activity_student_profile.xml" value="0.5" />
         <entry key="..\:/Users/pc/Desktop/schoolApp-master/app/src/main/res/layout/activity_student_reg_otp.xml" value="0.25" />
+        <entry key="..\:/schoolApp-master/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.183" />
+        <entry key="..\:/schoolApp-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/schoolApp-master/app/src/main/res/layout/activity_update_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/schoolApp-master/app/src/main/res/layout/add_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/schoolApp-master/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/schoolApp-master/app/src/main/res/menu/main.xml" value="0.20416666666666666" />
+        <entry key="..\:/schoolApp-master/app/src/main/res/menu/main_menu.xml" value="0.22" />
+        <entry key="..\:/schoolApp-master/app/src/main/res/menu/menu_shop_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/schoolApp-master/app/src/main/res/menu/profile_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/schoolApp-master/app/src/main/res/menu/refresh.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>

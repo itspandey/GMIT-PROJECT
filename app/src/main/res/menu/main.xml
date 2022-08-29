@@ -12,6 +12,9 @@
         android:orderInCategory="100"
         android:title="Logout"
         app:showAsAction="never" />
+  <item android:id="@+id/update1"
+      android:title="update"
+      app:showAsAction="never"></item>
 
   <!--<item
       android:id="@+id/action_image"

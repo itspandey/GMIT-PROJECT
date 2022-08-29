@@ -40,6 +40,9 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
         <activity
+            android:name=".AdmissionDetailRegister.update"
+            android:exported="false" />
+        <activity
             android:name=".AdmissionRegister.StuEduDetailActivity"
             android:exported="false" />
         <activity
@@ -47,22 +50,12 @@
             android:exported="false" />
         <activity
             android:name=".AdmissionRegister.BasicStuInfoActivity"
-            android:exported="true" >
-
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+            android:exported="true">
 
         </activity>
         <activity
             android:name=".Admission.NewAdmissionLoginActivity"
-            android:exported="true">
-
-
-
-        </activity>
+            android:exported="true"></activity>
         <activity
             android:name=".Admission.AttemptTestActivity"
             android:exported="true" />
@@ -174,12 +167,16 @@
         <activity
             android:name=".MainActivity"
             android:exported="true"
-            android:theme="@style/AppTheme.NoActionBar" >
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
-<!--           apani main screen-->
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <!-- apani main screen -->
 
         </activity>
-
         <activity
             android:name=".NewRegister.PrefFacultyActivity"
             android:exported="false" />
